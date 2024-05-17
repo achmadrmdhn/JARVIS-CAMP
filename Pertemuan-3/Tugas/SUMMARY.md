@@ -1,0 +1,1 @@
+Pada pertemuan ini mempelajari terkait PHP Dasar. Apa itu php, bagaimana cara penulisannya, tipe data, operator aritmatika, condition, dan perulangan.
